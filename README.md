@@ -1,8 +1,8 @@
 # Hi everyone 👋! I'm Serhii Bets
 
 ## Mobile Software Developer
-- 📱 I have 3 years experience in iOS/Swift Developer position
-- 📱 Now working in Capgemii Espana in Flutter Mobile App Developer position more than 1.5 years
+- 📱 I have 5 years experience in iOS/Swift Developer position
+- 📱 Now working in Capgemii Espana in Flutter Mobile App Developer position more than 2 years
 - 📖 Love to learn all things about technology.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 
